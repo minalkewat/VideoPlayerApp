@@ -15,6 +15,7 @@
 		1801C6842433719D00B2636B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1801C6822433719D00B2636B /* LaunchScreen.storyboard */; };
 		1801C68F2433719E00B2636B /* VideoPlayerAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1801C68E2433719E00B2636B /* VideoPlayerAppTests.swift */; };
 		1801C69A2433719E00B2636B /* VideoPlayerAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1801C6992433719E00B2636B /* VideoPlayerAppUITests.swift */; };
+		1801C6A82433737400B2636B /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1801C6A72433737400B2636B /* video.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1801C6952433719E00B2636B /* VideoPlayerAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoPlayerAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1801C6992433719E00B2636B /* VideoPlayerAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerAppUITests.swift; sourceTree = "<group>"; };
 		1801C69B2433719E00B2636B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1801C6A72433737400B2636B /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1801C66B2433719A00B2636B = {
 			isa = PBXGroup;
 			children = (
+				1801C6A72433737400B2636B /* video.mp4 */,
 				1801C6762433719A00B2636B /* VideoPlayerApp */,
 				1801C68D2433719E00B2636B /* VideoPlayerAppTests */,
 				1801C6982433719E00B2636B /* VideoPlayerAppUITests */,
@@ -235,6 +238,7 @@
 				1801C6842433719D00B2636B /* LaunchScreen.storyboard in Resources */,
 				1801C6812433719D00B2636B /* Assets.xcassets in Resources */,
 				1801C67F2433719A00B2636B /* Main.storyboard in Resources */,
+				1801C6A82433737400B2636B /* video.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
